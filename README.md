@@ -6,5 +6,5 @@ Interrupt service routine is performed in the main program using callback functi
 
 Drivers used:
  - Timer1
- - External Interrupt
+ - External Interrupt (INT0)
  - LCD
